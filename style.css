@@ -1,0 +1,15 @@
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.container
+{
+    text-align: center;
+}
+
+#anything{
+    background-color: cornsilk;
+}
+/*Start your code from here */
